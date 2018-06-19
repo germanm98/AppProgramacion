@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Registro De Alumnos</string>
+    <string name="DNI">DNI</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="legajo">Legajo</string>
+    <string name="alta">Alta</string>
+    <string name="baja">Baja</string>
+    <string name="modificacion">Modificar</string>
+    <string name="consulta">Consulta</string>
+    <string name="listar">Listar</string>
+</resources>
